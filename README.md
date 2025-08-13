@@ -1,6 +1,6 @@
 ## Hi there! I'm Lady Jane Abastas👋
 
-Jr. IT Developer, IT Special Projects at Watsons Personal Care Stores (Philippines), Inc.
+Jr. IT Developer, IT Special Projects at Watsons Personal Care Store (Phils) Inc.
 
 👋 About Me
 Hi there! I'm Lady, a passionate and detail-oriented Junior IT Developer specializing in IT Special Projects at WTCPH. I thrive on solving complex problems, building efficient systems, and collaborating across teams to deliver impactful solutions. My work bridges development and innovation, supporting strategic initiatives that drive business transformation.
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 Languages: JavaScript, Python, PHP
 Frameworks: Laravel, React, Node.js
 Tools: Git, VS Code, Postman, Jira
-Databases: MySQL, MongoDB
+Databases: SSMS, MySQL
 Other: REST APIs, CI/CD, Agile methodologies
 ______________________________________________________________________________________________________________________________________________
 
@@ -27,8 +27,8 @@ Cloud services (AWS & Azure)
 DevOps fundamentals
 ______________________________________________________________________________________________________________________________________________
 📫 Let's Connect
-📧 Email: [your.email@example.com]
-💼 LinkedIn: [linkedin.com/in/yourprofile]
-🗂️ Portfolio: [your-portfolio-link.com]
+📧 Email: abastaslady@gmail.com
+💼 LinkedIn: 
+🗂️ Portfolio:
 
 
